@@ -6,6 +6,8 @@ luxon for the orm
 
 to run backend:
 
+copy .env.example to .env
+
 `npm install`
 
 `npm run dev`
