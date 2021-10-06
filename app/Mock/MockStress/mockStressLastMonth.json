@@ -1,0 +1,122 @@
+[
+  {
+    "id": 16,
+    "user_id": 1,
+    "stress": 2.879,
+    "created_at": "9/17/2021"
+  },
+  {
+    "id": 17,
+    "user_id": 1,
+    "stress": 4.786,
+    "created_at": "9/18/2021"
+  },
+  {
+    "id": 18,
+    "user_id": 1,
+    "stress": 2.058,
+    "created_at": "9/19/2021"
+  },
+  {
+    "id": 19,
+    "user_id": 1,
+    "stress": 4.111,
+    "created_at": "9/20/2021"
+  },
+  {
+    "id": 20,
+    "user_id": 1,
+    "stress": 4.822,
+    "created_at": "9/21/2021"
+  },
+  {
+    "id": 21,
+    "user_id": 1,
+    "stress": 2.236,
+    "created_at": "9/22/2021"
+  },
+  {
+    "id": 22,
+    "user_id": 1,
+    "stress": 1.44,
+    "created_at": "9/23/2021"
+  },
+  {
+    "id": 23,
+    "user_id": 1,
+    "stress": 2.103,
+    "created_at": "9/24/2021"
+  },
+  {
+    "id": 24,
+    "user_id": 1,
+    "stress": 4.928,
+    "created_at": "9/25/2021"
+  },
+  {
+    "id": 25,
+    "user_id": 1,
+    "stress": 2.419,
+    "created_at": "9/26/2021"
+  },
+  {
+    "id": 26,
+    "user_id": 1,
+    "stress": 2.844,
+    "created_at": "9/27/2021"
+  },
+  {
+    "id": 27,
+    "user_id": 1,
+    "stress": 2.308,
+    "created_at": "9/28/2021"
+  },
+  {
+    "id": 28,
+    "user_id": 1,
+    "stress": 1.542,
+    "created_at": "9/29/2021"
+  },
+  {
+    "id": 29,
+    "user_id": 1,
+    "stress": 1.789,
+    "created_at": "9/30/2021"
+  },
+  {
+    "id": 30,
+    "user_id": 1,
+    "stress": 1.372,
+    "created_at": "10/01/2021"
+  },
+  {
+    "id": 31,
+    "user_id": 1,
+    "stress": 3.34,
+    "created_at": "10/02/2021"
+  },
+  {
+    "id": 32,
+    "user_id": 1,
+    "stress": 3.903,
+    "created_at": "10/03/2021"
+  },
+  {
+    "id": 33,
+    "user_id": 1,
+    "stress": 4.564,
+    "created_at": "10/04/2021"
+  },
+  {
+    "id": 34,
+    "user_id": 1,
+    "stress": 3.568,
+    "created_at": "10/05/2021"
+  },
+  {
+    "id": 35,
+    "user_id": 1,
+    "stress": 2.15,
+    "created_at": "10/06/2021"
+  }
+]

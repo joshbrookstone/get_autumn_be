@@ -1,0 +1,32 @@
+[
+  {
+    "id": 6,
+    "user_id": 1,
+    "stress": 4.304,
+    "created_at": "9/6/2021"
+  },
+  {
+    "id": 7,
+    "user_id": 1,
+    "stress": 1.495,
+    "created_at": "9/7/2021"
+  },
+  {
+    "id": 8,
+    "user_id": 1,
+    "stress": 4.277,
+    "created_at": "9/8/2021"
+  },
+  {
+    "id": 9,
+    "user_id": 1,
+    "stress": 1.421,
+    "created_at": "9/10/2021"
+  },
+  {
+    "id": 10,
+    "user_id": 1,
+    "stress": 2.622,
+    "created_at": "9/11/2021"
+  }
+]
