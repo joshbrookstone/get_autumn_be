@@ -1,4 +1,4 @@
-backed for the get_autumn take home technical
+backed API for the get_autumn take home technical
 
 backend created with adonisjs framework
 
